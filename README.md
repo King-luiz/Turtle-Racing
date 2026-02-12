@@ -1,10 +1,5 @@
 # 🐢 **TURTLE RACING TOURNAMENT** 🏆
 
-![Turtle Racing](https://img.shields.io/badge/Turtle-Racing-brightgreen?style=for-the-badge&logo=turtle)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Pygame](https://img.shields.io/badge/Pygame-Music-yellow?style=for-the-badge&logo=pygame)
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
-
 ---
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=250&section=header&text=TURBO%20TURTLE%20RACING&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/> </p><p align="center"> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%90%A2+READY...+SET...+RACE!+%F0%9F%8F%81;%F0%9F%8F%86+FASTEST+TURTLE+IN+THE+WEST!+%F0%9F%90%A2;%F0%9F%92%B0+PLACE+YOUR+BETS!+%F0%9F%92%B0;%F0%9F%8E%AE+PYTHON+ARCADE+CLASSIC!+%F0%9F%90%A2" alt="Typing SVG" /> </a> </p><p align="center"> <img src="https://img.shields.io/badge/TURBO_TURTLE_RACING-32CD32?style=for-the-badge&logo=turtle&logoColor=white&labelColor=2E8B57" /> <img src="https://img.shields.io/badge/VERSION-2.0-FFD700?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/PYTHON-3.6+-4169E1?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" /> <img src="https://img.shields.io/badge/TURTLE-GRAPHICS-9C27B0?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=000000" /> </p><p align="center"> <img src="https://img.shields.io/badge/🐢_RACERS-2_–_10-FF6B6B?style=flat-square" /> <img src="https://img.shields.io/badge/💰_BETTING-10_–_1000-FFD700?style=flat-square" /> <img src="https://img.shields.io/badge/🎨_COLORS-10_UNIQUE-00CED1?style=flat-square" /> <img src="https://img.shields.io/badge/🏆_WINNERS-CELEBRATION-FF69B4?style=flat-square" /> </p>
 
@@ -277,6 +272,9 @@ Love Turtle Racing Tournament? Give it a star ⭐ on GitHub and share it with yo
   <img src="https://img.shields.io/badge/Stay-Awesome-orange?style=for-the-badge">
 </p>
 
+---
+🐢 TURTLE ROSTER
+<p align="center"> <table> <tr> <th align="center">Name</th> <th align="center">Color</th> <th align="center">Speed Style</th> <th align="center">Catch-Phase</th> </tr> <tr> <td align="center"><b>Speedy</b></td> <td align="center">🔴 Red</td> <td align="center">Consistent</td> <td align="center"><i>"Too slow!"</i></td> </tr> <tr> <td align="center"><b>Turbo</b></td> <td align="center">🟢 Green</td> <td align="center">Speed bursts</td> <td align="center"><i>"VROOM!"</i></td> </tr> <tr> <td align="center"><b>Flash</b></td> <td align="center">🔵 Blue</td> <td align="center">Fast starter</td> <td align="center"><i>"Zoom!"</i></td> </tr> <tr> <td align="center"><b>Bolt</b></td> <td align="center">🟡 Yellow</td> <td align="center">Strong finisher</td> <td align="center"><i>"Lightning!"</i></td> </tr> <tr> <td align="center"><b>Dash</b></td> <td align="center">🟣 Purple</td> <td align="center">Erratic</td> <td align="center"><i>"Which way?"</i></td> </tr> <tr> <td align="center"><b>Blaze</b></td> <td align="center">🟠 Orange</td> <td align="center">Hot streak</td> <td align="center"><i>"On fire!"</i></td> </tr> <tr> <td align="center"><b>Zoom</b></td> <td align="center">💗 Pink</td> <td align="center">Late bloomer</td> <td align="center"><i>"Here I come!"</i></td> </tr> <tr> <td align="center"><b>Rocket</b></td> <td align="center">🩵 Cyan</td> <td align="center">Explosive</td> <td align="center"><i>"3-2-1..."</i></td> </tr> <tr> <td align="center"><b>Sonic</b></td> <td align="center">🟤 Brown</td> <td align="center">Ring collector</td> <td align="center"><i>"Gotta go fast!"</i></td> </tr> <tr> <td align="center"><b>Nitro</b></td> <td align="center">⚫ Black</td> <td align="center">NOS boost</td> <td align="center"><i>"Injected!"</i></td> </tr> </table> </p>
 ---
 
 <p align="center">
