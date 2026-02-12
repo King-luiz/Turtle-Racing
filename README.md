@@ -6,6 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 ---
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=250&section=header&text=TURBO%20TURTLE%20RACING&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/> </p><p align="center"> <a href="#"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%90%A2+READY...+SET...+RACE!+%F0%9F%8F%81;%F0%9F%8F%86+FASTEST+TURTLE+IN+THE+WEST!+%F0%9F%90%A2;%F0%9F%92%B0+PLACE+YOUR+BETS!+%F0%9F%92%B0;%F0%9F%8E%AE+PYTHON+ARCADE+CLASSIC!+%F0%9F%90%A2" alt="Typing SVG" /> </a> </p><p align="center"> <img src="https://img.shields.io/badge/TURBO_TURTLE_RACING-32CD32?style=for-the-badge&logo=turtle&logoColor=white&labelColor=2E8B57" /> <img src="https://img.shields.io/badge/VERSION-2.0-FFD700?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /> <img src="https://img.shields.io/badge/PYTHON-3.6+-4169E1?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" /> <img src="https://img.shields.io/badge/TURTLE-GRAPHICS-9C27B0?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=000000" /> </p><p align="center"> <img src="https://img.shields.io/badge/🐢_RACERS-2_–_10-FF6B6B?style=flat-square" /> <img src="https://img.shields.io/badge/💰_BETTING-10_–_1000-FFD700?style=flat-square" /> <img src="https://img.shields.io/badge/🎨_COLORS-10_UNIQUE-00CED1?style=flat-square" /> <img src="https://img.shields.io/badge/🏆_WINNERS-CELEBRATION-FF69B4?style=flat-square" /> </p>
+
+---
 
 ## 🎮 **WELCOME TO THE ULTIMATE TURTLE RACING EXPERIENCE!**
 
